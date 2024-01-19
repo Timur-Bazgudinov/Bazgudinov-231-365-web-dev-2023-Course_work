@@ -1,0 +1,119 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-color: #cd853f;
+    color: #0000ff;
+	padding: 1rem 0;
+    font-size: 1.5rem;
+    text-decoration: none;
+    border-bottom: 3px solid #ff0000;
+}
+.hello{
+    margin: 1rem;
+}
+.d-flex{
+    display: flex;
+}
+.container{
+    margin: 0 auto;
+    max-width: 95%;
+}
+.name{
+    display: inline;
+    margin-left: 0.5rem;
+}
+.menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+}
+.navigation{
+    text-decoration: none;
+    color: #0000ff;
+}
+.menu li{
+    display: inline;
+    margin-right: 5px;
+    padding: 10px;
+    text-decoration: none;
+}
+.menu{
+    display: inline;
+    margin-left: auto;
+}
+main{
+    background-color:  #ffdb8b;
+}
+.about{
+    text-align: center;
+    font-size: 1rem;
+}
+.about h2{
+    margin: 1rem;
+    color: #0000ff;
+}
+.about h3{
+    color: #0000ff;
+}
+.about p{
+    color: #0000ff;
+}
+.roads{
+    text-align: center;
+    font-size: 1rem;
+}
+.roads h2{
+    margin: 1rem;
+    color: #0000ff;
+}
+.roads table th{
+    color: #0000ff;
+    background-color: #ffdb8b;
+    text-align: center;
+}
+.roads table td{
+    text-align: center;
+    color: #0000ff;
+    background-color: #ffdb8b;
+}
+.tbody-guids {
+    background-color: #ffdb8b;
+}
+.pagination {
+    display: flex;
+    justify-content: center;
+    background-color: #ffdb8b;    
+}
+.pagination button {
+    background-color: #cd853f;
+    color: #0000ff;
+    border: none;
+    margin: 2px;
+    border-radius: 3px;
+}
+.contacts{
+    margin: 0rem;
+    text-align: center;
+    font-size: 0.8rem;
+    line-height: 0.7rem;
+    background-color: #ffdb8b;
+}
+.contacts h2{
+    margin: 1rem;
+    color: #0000ff;
+}
+.welc{
+    color:#0000ff;
+}
+p{
+    color: #0000ff;
+}
+.ref1 {
+    color: #0000ff;
+    text-decoration: none;
+}
+label{
+    color: #0000ff;
+}
